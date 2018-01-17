@@ -1,0 +1,170 @@
+test_set/JPEGImages/0.jpg: Predicted in 0.010349 seconds.
+blue_lic: 30%
+blue_lic: 34%
+car_back: 57%
+car_back: 65%
+bus_front: 40%
+test_set/JPEGImages/1.jpg: Predicted in 0.010304 seconds.
+blue_lic: 29%
+blue_lic: 36%
+car_back: 55%
+car_back: 72%
+bus_front: 42%
+test_set/JPEGImages/2.jpg: Predicted in 0.010290 seconds.
+blue_lic: 31%
+blue_lic: 35%
+car_back: 52%
+car_back: 64%
+bus_front: 40%
+test_set/JPEGImages/3.jpg: Predicted in 0.010379 seconds.
+blue_lic: 33%
+blue_lic: 32%
+car_back: 57%
+car_back: 62%
+bus_front: 54%
+test_set/JPEGImages/4.jpg: Predicted in 0.010359 seconds.
+blue_lic: 30%
+blue_lic: 34%
+car_front: 43%
+car_back: 46%
+bus_front: 55%
+test_set/JPEGImages/5.jpg: Predicted in 0.010314 seconds.
+blue_lic: 35%
+car_front: 24%
+car_front: 70%
+pedestrian: 40%
+car_front: 49%
+car_back: 38%
+test_set/JPEGImages/6.jpg: Predicted in 0.010407 seconds.
+blue_lic: 25%
+car_front: 67%
+car_front: 50%
+truck_back: 44%
+car_back: 37%
+test_set/JPEGImages/7.jpg: Predicted in 0.010313 seconds.
+car_front: 33%
+truck_back: 35%
+car_front: 62%
+car_front: 38%
+test_set/JPEGImages/8.jpg: Predicted in 0.010392 seconds.
+car_front: 25%
+car_front: 55%
+car_front: 42%
+truck_back: 53%
+car_back: 37%
+car_back: 53%
+test_set/JPEGImages/9.jpg: Predicted in 0.010314 seconds.
+truck_back: 62%
+car_front: 36%
+car_front: 67%
+car_front: 51%
+car_back: 67%
+car_back: 52%
+car_back: 56%
+test_set/JPEGImages/10.jpg: Predicted in 0.010299 seconds.
+blue_lic: 31%
+car_front: 39%
+car_back: 45%
+car_front: 57%
+car_back: 47%
+car_front: 58%
+car_back: 65%
+test_set/JPEGImages/11.jpg: Predicted in 0.010340 seconds.
+blue_lic: 27%
+blue_lic: 30%
+car_front: 41%
+pedestrian: 38%
+car_front: 48%
+car_front: 58%
+car_back: 44%
+car_back: 79%
+car_back: 49%
+test_set/JPEGImages/12.jpg: Predicted in 0.010351 seconds.
+blue_lic: 28%
+car_front: 72%
+car_front: 66%
+car_front: 40%
+car_back: 52%
+car_front: 55%
+car_back: 72%
+test_set/JPEGImages/13.jpg: Predicted in 0.010370 seconds.
+bus_front: 46%
+car_front: 50%
+car_front: 42%
+car_back: 46%
+car_back: 37%
+car_front: 67%
+car_front: 50%
+car_back: 76%
+test_set/JPEGImages/14.jpg: Predicted in 0.010340 seconds.
+blue_lic: 30%
+car_front: 66%
+car_front: 74%
+car_front: 57%
+car_back: 68%
+test_set/JPEGImages/15.jpg: Predicted in 0.010407 seconds.
+car_front: 52%
+car_front: 68%
+car_front: 24%
+car_front: 68%
+car_back: 69%
+test_set/JPEGImages/16.jpg: Predicted in 0.010400 seconds.
+blue_lic: 33%
+car_front: 43%
+car_front: 26%
+car_back: 72%
+car_front: 53%
+car_back: 54%
+car_back: 33%
+car_back: 54%
+test_set/JPEGImages/17.jpg: Predicted in 0.010335 seconds.
+car_back: 56%
+test_set/JPEGImages/18.jpg: Predicted in 0.010330 seconds.
+yellow_lic: 26%
+car_front: 34%
+car_back: 52%
+bus_back: 45%
+test_set/JPEGImages/19.jpg: Predicted in 0.010352 seconds.
+car_front: 52%
+car_back: 43%
+car_front: 47%
+bus_front: 25%
+test_set/JPEGImages/20.jpg: Predicted in 0.010320 seconds.
+truck_back: 26%
+car_front: 61%
+bus_front: 36%
+test_set/JPEGImages/21.jpg: Predicted in 0.010357 seconds.
+car_back: 28%
+car_back: 43%
+car_front: 48%
+test_set/JPEGImages/22.jpg: Predicted in 0.010337 seconds.
+car_back: 48%
+car_back: 64%
+car_back: 26%
+test_set/JPEGImages/23.jpg: Predicted in 0.010429 seconds.
+car_front: 35%
+car_back: 45%
+test_set/JPEGImages/24.jpg: Predicted in 0.010314 seconds.
+blue_lic: 48%
+blue_lic: 33%
+car_back: 65%
+car_front: 51%
+car_front: 56%
+car_back: 56%
+car_back: 53%
+test_set/JPEGImages/25.jpg: Predicted in 0.010359 seconds.
+car_back: 53%
+car_front: 53%
+car_front: 57%
+test_set/JPEGImages/26.jpg: Predicted in 0.010386 seconds.
+car_back: 34%
+car_front: 56%
+feijidong: 43%
+car_front: 73%
+test_set/JPEGImages/27.jpg: Predicted in 0.010363 seconds.
+blue_lic: 27%
+blue_lic: 29%
+car_back: 37%
+car_front: 45%
+car_back: 39%
+car_back: 73%

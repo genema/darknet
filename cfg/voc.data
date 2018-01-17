@@ -1,0 +1,5 @@
+classes=18
+train  = /home/ghma/darknet_train/scripts/train.txt
+names = data/voc.names
+backup = backup
+
